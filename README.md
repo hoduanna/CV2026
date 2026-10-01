@@ -1,5 +1,5 @@
 # CV2026
 ### Homework1
 
-[Selection![Alt homework11](./images/homework1.jpg)
-Sorting](./homeworke/SelectionSorting.pde)
+셀피
+https://www.youtube.com/watch?v=Gt3ct106Ltw
