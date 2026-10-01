@@ -1,9 +1,9 @@
 # CV2026
-### Homework1
 
-selfi
-https://www.youtube.com/watch?v=Gt3ct106Ltw
+###selfi
+[![selfi]](https://www.youtube.com/watch?v=Gt3ct106Ltw)
 
-yolo
+###yolo
+[![yolo]](https://www.youtube.com/watch?v=eT_klPeIa_o)
 
 classsification
